@@ -20,10 +20,7 @@
 
   <dependencies>
     <dependency>
-     <groupId>com.sarav</groupId>
-<artifactId>TomcatMavenApp</artifactId>
-<version>2.0</version>
-<packaging>war</packaging>
+    
       <scope>test</scope>
     </dependency>
   </dependencies>
